@@ -1,2 +1,2 @@
 # FirstRepo
-For record learning experience.
+For record my learning experience, which may include Cpp and some Cpp projects.
